@@ -4,11 +4,11 @@
 [](https://scikit-learn.org/)
 [](https://www.google.com/search?q=LICENSE)
 
-Đồ án môn học Phân tích và Trực quan Dữ liệu - DS105 | **TP. Hồ Chí Minh – 12/2023** [cite: 242, 243]
+Đồ án môn học Phân tích và Trực quan Dữ liệu - DS105 | **TP. Hồ Chí Minh – 12/2023** 
 
 ### 💡 Mục tiêu Dự án
 
-Dự án tập trung vào việc **khám phá và dự đoán doanh thu theo ngày** từ bộ dữ liệu đơn đặt hàng của một doanh nghiệp nhỏ chuyên nhận order hàng hiệu. Mục tiêu là hỗ trợ doanh nghiệp xác định nhóm khách hàng tiềm năng và đưa ra chiến lược kinh doanh phù hợp[cite: 473].
+Dự án tập trung vào việc **khám phá và dự đoán doanh thu theo ngày** từ bộ dữ liệu đơn đặt hàng của một doanh nghiệp nhỏ chuyên nhận order hàng hiệu. Mục tiêu là hỗ trợ doanh nghiệp xác định nhóm khách hàng tiềm năng và đưa ra chiến lược kinh doanh phù hợp.
 
 ### 💻 Công nghệ & Phương pháp
 
