@@ -32,7 +32,3 @@ Dự án tập trung vào việc **khám phá và dự đoán doanh thu theo ng�
   * Nguyễn Thị Mai Trinh (MSSV: 21522718) - **Tiền xử lí + Phân tích thăm dò** 
   * Nguyễn Diệu Phương (MSSV: 21520091) - Phân tích thăm dò + Xây dựng mô hình 
   * Nguyễn Thị Huyền Trang (MSSV: 21520488) - Thu thập dữ liệu + Tiền xử lí + Slide 
-
------
-
-Bạn có muốn tôi giúp bạn tạo file **https://www.google.com/search?q=LICENSE** hoặc **.gitignore** cơ bản cho dự án này không?
